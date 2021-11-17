@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/429025808.svg)](https://zenodo.org/badge/latestdoi/429025808)
-
-# **Script to calculate GC content and GC-Skew in windows**
+# **GC-GCSkew_Calculator
+### **Script to calculate GC content and GC-Skew in windows**
 
 This script produces BED files of GC% and GC-Skew in windows for plotting.
 
