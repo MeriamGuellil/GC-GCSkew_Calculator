@@ -1,4 +1,4 @@
-## **Script to calculate GC content and GC-Skew in windows**
+# **Script to calculate GC content and GC-Skew in windows**
 
 This script produces BED files of GC content and GC-Skew in windows for plotting.
 
