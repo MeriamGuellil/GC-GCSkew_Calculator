@@ -6,6 +6,7 @@ This script produces BED files of GC% and GC-Skew in windows for plotting.
 
 # Requirements
 You will need the following python packages to run the script:
+- python 3
 - Biopython
 
 # Usage example:
